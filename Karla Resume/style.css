@@ -110,9 +110,15 @@ opacity:0;
 transition:0.3s;
 }
 
-.skill:hover .html{width:90%;}
-.skill:hover .css{width:85%;}
-.skill:hover .js{width:75%;}
+.skill:hover .html{width:85%;}
+.skill:hover .css{width:80%;}
+.skill:hover .js{width:70%;}
+.skill:hover .python{width:50%;}
+.skill:hover .uiux{width:80%;}
+.skill:hover .mongo{width:65%;}
+.skill:hover .net{width:60%;}
+.skill:hover .video{width:65%;}
+
 
 .skill:hover .fill span{
 opacity:1;
